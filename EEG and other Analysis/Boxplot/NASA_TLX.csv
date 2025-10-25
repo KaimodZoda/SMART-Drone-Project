@@ -1,0 +1,97 @@
+Dimension,Score,Condition
+Mental Demand,25,Actual
+Mental Demand,25,Actual
+Mental Demand,5,Actual
+Mental Demand,0,Actual
+Mental Demand,10,Actual
+Mental Demand,80,Actual
+Mental Demand,75,Actual
+Mental Demand,15,Actual
+Physical Demand,80,Actual
+Physical Demand,15,Actual
+Physical Demand,5,Actual
+Physical Demand,15,Actual
+Physical Demand,10,Actual
+Physical Demand,70,Actual
+Physical Demand,70,Actual
+Physical Demand,60,Actual
+Temporal Demand,65,Actual
+Temporal Demand,0,Actual
+Temporal Demand,0,Actual
+Temporal Demand,0,Actual
+Temporal Demand,0,Actual
+Temporal Demand,0,Actual
+Temporal Demand,75,Actual
+Temporal Demand,25,Actual
+Performance,25,Actual
+Performance,15,Actual
+Performance,15,Actual
+Performance,0,Actual
+Performance,25,Actual
+Performance,65,Actual
+Performance,55,Actual
+Performance,0,Actual
+Effort,65,Actual
+Effort,25,Actual
+Effort,100,Actual
+Effort,0,Actual
+Effort,0,Actual
+Effort,80,Actual
+Effort,95,Actual
+Effort,40,Actual
+Frustration,10,Actual
+Frustration,5,Actual
+Frustration,0,Actual
+Frustration,0,Actual
+Frustration,0,Actual
+Frustration,50,Actual
+Frustration,90,Actual
+Frustration,5,Actual
+Mental Demand,20,Virtual
+Mental Demand,75,Virtual
+Mental Demand,5,Virtual
+Mental Demand,0,Virtual
+Mental Demand,65,Virtual
+Mental Demand,25,Virtual
+Mental Demand,5,Virtual
+Mental Demand,5,Virtual
+Physical Demand,20,Virtual
+Physical Demand,0,Virtual
+Physical Demand,0,Virtual
+Physical Demand,0,Virtual
+Physical Demand,95,Virtual
+Physical Demand,15,Virtual
+Physical Demand,15,Virtual
+Physical Demand,40,Virtual
+Temporal Demand,30,Virtual
+Temporal Demand,0,Virtual
+Temporal Demand,5,Virtual
+Temporal Demand,0,Virtual
+Temporal Demand,75,Virtual
+Temporal Demand,0,Virtual
+Temporal Demand,60,Virtual
+Temporal Demand,0,Virtual
+Performance,20,Virtual
+Performance,45,Virtual
+Performance,5,Virtual
+Performance,0,Virtual
+Performance,0,Virtual
+Performance,40,Virtual
+Performance,0,Virtual
+Performance,0,Virtual
+Effort,60,Virtual
+Effort,85,Virtual
+Effort,100,Virtual
+Effort,0,Virtual
+Effort,60,Virtual
+Effort,85,Virtual
+Effort,10,Virtual
+Effort,25,Virtual
+Frustration,0,Virtual
+Frustration,15,Virtual
+Frustration,0,Virtual
+Frustration,0,Virtual
+Frustration,75,Virtual
+Frustration,15,Virtual
+Frustration,15,Virtual
+Frustration,10,Virtual
